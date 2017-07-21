@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/TestBase/ActionBase/M3_NetworkSettings/M3_4_FlowSettings/M3_4_2_ProtocolFlow.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestBase/ActionBase/M5_FlowControl/M5_1_SmartControl.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestBase/ActionBase/M5_FlowControl/M5_2_StrategyControl.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestCase/M3_NetworkSettings/M3_0_Main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestCase/M3_NetworkSettings/M3_4_FlowSettings/M3_4_2_ProtocolFlow.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestCase/M5_FlowControl/M5_1_SmartControl.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestCase/M5_FlowControl/M5_2_StratergyControl.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestCase/M5_FlowControl/M5_4_MACSpeedLimit.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
