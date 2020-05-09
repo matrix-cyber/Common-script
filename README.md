@@ -2,7 +2,7 @@
 
 - 文件名：sample_web_log.py 
 
-- 作用：生成Nginx日志
+- 作用：发送Nginx的syslog日志至514端口
 
 ---
 
